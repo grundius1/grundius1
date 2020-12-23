@@ -35,3 +35,15 @@ Here are some ideas to get you started:
 [Diamonds](https://github.com/grundius1/kaggle-competition) a machine learning project to predict the prices of diamonds given its characteristics
 
 [image clasification](https://github.com/grundius1/Clasif-Net) a neural net project to clasificate images of the cifar 10 dataset
+
+### languages and tools
+
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="45" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.jpg"></code>
+<code><img height="45" src="https://i.ibb.co/FzwDkns/1200px-Power-bi-logo-black-svg.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
