@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="45" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.jpg"></code>
+<code><img height="45" src="https://www.kdatascience.com/wp-content/uploads/2019/08/Business-intelligence-Reporting-Tableau-441x440.jpg></code>
 <code><img height="45" src="https://i.ibb.co/FzwDkns/1200px-Power-bi-logo-black-svg.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
