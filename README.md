@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 [image segmentation](https://github.com/grundius1/lab-image-segmentation) an approach to imagewh treatment with python
 
+[Coronavirus Bar Race](https://github.com/grundius1/coronavirus_bar_race) a python program to make a bar race with coronavirus total cases by country
+
 ### API (Appliclation Programming Interfaces)
 
 [LOL API](https://github.com/grundius1/apis-project) an api to get most used champs by division in League of Legends, with argument parser
